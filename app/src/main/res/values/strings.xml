@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">image-search-app</string>
+    
+    <!-- Error Messages -->
+    <string name="error_general">Something went wrong, please try again later.</string>
+    
+    <!-- UI Labels -->
+    <string name="title_your_photos">Your Photos</string>
+    <string name="placeholder_search_input">Search images…</string>
+    <string name="page_info">Page %s of %s • %s photos found</string>
+
+    <!-- Buttons -->
+    <string name="button_load_more">Load More Photos</string>
+    <string name="button_retry">Retry</string>
+</resources>
